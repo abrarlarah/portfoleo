@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Earthly",
+      "createdAt": "2022-12T16:26:54Z",
+     "url":"https://abrarlarah.github.io/earthly/",
+      "description": "🔥 The Earthly Website Frontend, Hosted At Earthly.In , Is Built Using HTML, CSS, JavaScript, Bootstrap, And JQuery. It Features A Modern And Responsive Design, Likely Incorporating Bootstrap's Grid System For Layout Consistency Across Different Screen Sizes. The Use Of JQuery Suggests Dynamic Interactions And Possibly Animations To Enhance User Experience. The Website Probably Showcases Content Related To Earthly Matters, Such As Environmental Awareness, Nature, Or Sustainability.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Health Management System",
+      "createdAt": "2021-06T20:41:33Z",
+      "url": "https://github.com/ashutosh1919/explainable-cnn",
+      "description": "📦The Health Management System (HMS) Is A Full-Stack Project Incorporating HTML, CSS, PHP, MySQL, And JavaScript. It Provides Features Like User Registration/Login, Patient Record Management, Appointment Scheduling, And Reporting. Developed With A Responsive Design And Accessible Interface, It Showcases Proficiency In Frontend Development, Backend Logic, Database Management, And Healthcare Administration Functionalities.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "COVID Detection Model",
+      "createdAt": "2022-09T14:50:20Z",
+      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+      "description": "The COVID Detection Model Is A Python Project Using Transfer Learning With ResNet-50 Architecture To Identify COVID-19 Cases From Medical Images. It Leverages Pre-Trained Models For Feature Extraction And Fine-Tuning, Then Trains On Labeled Datasets For Evaluation. This Model Aids In Automated COVID Detection From X-Rays Or CT Scans, Contributing To Healthcare Efforts During The Pandemic..",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Weather Forecasting Website",
+      "createdAt": "2022-02-26T17:56:07Z",
+      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
+      "description": "⚙️ The Weather Forecasting Website Utilizes An API Key To Access Weather Data. It Presents Current Conditions And Forecasts In A User-Friendly Interface. Built With HTML, CSS, And JavaScript, It Enables Location Search And User Customization. The Website Boasts Responsive Design For Optimal Viewing On Various Devices.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+       
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Drum Kit",
+      "createdAt": "2020-01T06:36:41Z",
+      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
+      "description": "🚀  The Drum Kit Website Is A Fun Project Featuring A Virtual Drum Kit, Created With HTML, CSS, And JavaScript. Users Can Play Different Drum Sounds By Clicking Buttons Or Using Keyboard Shortcuts. It's Designed For Entertainment And Can Be Enjoyed However You Like..",
+      "isFork": false,
+      "languages": [
+
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Image Recognition System",
+      "createdAt": "2021-12T08:31:51Z",
+      "url": "https://github.com/ashutosh1919/react-liquidswipe",
+      "description": "The Image Recognition System Uses Pre-Saved Images And A Decision Tree Classifier To Categorize New Images Into Predefined Categories. It Trains On Labeled Images And Predicts The Category Of New Images Based On Features Extracted From Them.",
+      "isFork": false,
+      "languages": [
+
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+       
+      ]
+    }
+  ]
+}
